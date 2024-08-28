@@ -2846,19 +2846,19 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #000;
-  --bs-btn-bg: #e6a756;
-  --bs-btn-border-color: #e6a756;
+  --bs-btn-bg: #0c6c9c;
+  --bs-btn-border-color: #0c6c9c;
   --bs-btn-hover-color: #000;
-  --bs-btn-hover-bg: #eab46f;
-  --bs-btn-hover-border-color: #e9b067;
+  --bs-btn-hover-bg: #238cc1;
+  --bs-btn-hover-border-color: #148dca;
   --bs-btn-focus-shadow-rgb: 196, 142, 73;
   --bs-btn-active-color: #000;
-  --bs-btn-active-bg: #ebb978;
-  --bs-btn-active-border-color: #e9b067;
+  --bs-btn-active-bg: #238cc1;
+  --bs-btn-active-border-color: #148dca;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #000;
-  --bs-btn-disabled-bg: #e6a756;
-  --bs-btn-disabled-border-color: #e6a756;
+  --bs-btn-disabled-bg: #0c6c9c;
+  --bs-btn-disabled-border-color: #0c6c9c;
 }
 
 .btn-secondary {
@@ -5976,6 +5976,7 @@ textarea.form-control-lg {
   padding-bottom: 1.25rem;
   color: #fff;
   text-align: center;
+  font-weight: bold;
 }
 
 .carousel-dark .carousel-control-prev-icon,
@@ -10874,7 +10875,7 @@ p {
 .section-heading .section-heading-lower {
   display: block;
   font-size: 3rem;
-  font-weight: 100;
+  font-weight: 0;
 }
 
 .bg-faded {
